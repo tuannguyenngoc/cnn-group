@@ -40,10 +40,13 @@ We are a dynamic research group at [Faculty of Engineering and Information Techn
 
 In our research, we take a holistic approach to explore, develop and implement concrete materials in traditional and emerging applications. Increasing population and urbanisation have resulted in growing demands for concrete – the material the becomes a topical Net Zero area due to the CO2 emission of cement production and natural resource consumption. On the other hand, to meet the Net Zero target by 2050, the energy transition and storage deployment is rapidly advancing worldwide, necessitating the construction of traditional and emerging energy infrastructure. As concrete has played a pivotal role in the modern society, from building a house to major civil and energy infrastructure, our research mission is to develop engineering solutions to advance the interdisciplinary nexus of concrete and Net zero transition. 
 
+
 <!-- hidden text -->
 
 <figure class="two">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/uom_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/arc_logo.jpg" style="width: 110px">
+    <p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/uom_logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/arc_logo.jpg" style="width: 150px">
+    p>
 </figure>
 
