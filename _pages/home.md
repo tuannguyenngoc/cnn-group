@@ -42,10 +42,8 @@ In our research, we take a holistic approach to explore, develop and implement c
 
 
 <!-- hidden text -->
-<p align="center">
-<figure class="two">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/uom_logo.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/arc_logo.jpg" style="width: 150px">
-</figure>
-p>
+<p align="middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/uom_logo.png" style="width: 150px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/arc_logo.jpg" style="width: 150px" />
+</p>
 
