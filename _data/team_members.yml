@@ -1,5 +1,5 @@
 - name: Tuan Nguyen
-  photo: 
+  photo: tuan.nguyen.jpg
   info: Dr Tuan Nguyen is a curious researcher and academic at heart. He is currently an ARC DECRA and Senior Research Fellow at the Department of Infrastructure Engineering, the University of Melbourne. His research interests include sustainable construction materials, renewable energy infrastructure, and advanced computational modelling.
   email: tuan.nguyen@unimelb.edu.au
   number_educ: 3
@@ -8,14 +8,14 @@
   education3: Bachelor of Civil Engineering (Honour), <a href="https://hcmut.edu.vn/en"> Ho Chi Minh City University of Technology</a>
 
 - name: Vithushanthini (Vithusha) Arulkumar
-  photo: 
+  photo: vithusha.jpg
   info: PhD student, started Jan 2023
   email: varulkumar@student.unimelb.edu.au
   number_educ: 1
   education1: Bachelor of Science in Civil Engineering (Hons), University of Moratuwa-Sri Lanka 
 
 - name: Santosh Mishra
-  photo: 
+  photo: santosh.jpg
   info: PhD student, started Feb 2024
   email: santoshm@student.unimelb.edu.au
   number_educ: 2
@@ -23,7 +23,7 @@
   education2: Bachelor of Civil Engineering, Tribhuvan University-Nepal
 
 - name: Atabak Pourdadash Fardnam 
-  photo: 
+  photo: atabak.jpg
   info: PhD student, started May 2024
   email: apourdadashf@student.unimelb.edu.au
   number_educ: 2
@@ -31,7 +31,7 @@
   education2: Bachelor of Mechanical Engineering, University of Tabriz-Iran
 
 - name: Arafat Chowdhury
-  photo: 
+  photo: arafat.png
   info: PhD student, started Aug 2024
   email: arafatc@student.unimelb.edu.au
   number_educ: 2
