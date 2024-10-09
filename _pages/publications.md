@@ -29,5 +29,30 @@ Tay-Son Le, Tuan N. Nguyen, Steven Linforth, and Tuan D. Ngo. "Safety investigat
 ## 2022
 Nghia P. Tran, Tuan N. Nguyen, and Tuan D. Ngo. "The role of organic polymer modifiers in cementitious systems towards durable and resilient infrastructures: a systematic review." [Construction and Building Materials 360 (2022): 129562](https://www.sciencedirect.com/science/article/pii/S0950061822032184).
 
+Tianchun (Echo) Wang, Rackel San Nicolas, Tuan N. Nguyen, Ali Kashani, and Tuan D. Ngo. "Mechanical behaviour of glass-mortar under uniaxial compression loading based on a meso-scale modelling approach." [Construction and Building Materials 359 (2022): 129499](https://www.sciencedirect.com/science/article/pii/S0950061822031555).
+
+Nghia P. Tran, Tuan N. Nguyen, Tuan D. Ngo, Phung K. Le, and Tuan A. Le. "Strategic progress in foam stabilisation towards high-performance foam concrete for building sustainability: A state-of-the-art review." [Journal of Cleaner Production 375 (2022): 133939](https://www.sciencedirect.com/science/article/pii/S0959652622035119).
+
+Aravinda S. Rao, Tuan N. Nguyen, Tay-Son Le, Marimuthu Palaniswami, and Tuan D. Ngo. "Attention recurrent residual U-Net for predicting pixel-level crack widths in concrete surfaces." [Structural Health Monitoring 21, no. 6 (2022): 2732-2749](https://journals.sagepub.com/doi/abs/10.1177/14759217211068859).
+
+## 2021
+Dao Q. Pham, Tuan N. Nguyen, Tay-Son Le, Tung T. Pham, and Tuan D. Ngo. "The structural behaviours of steel reinforced geopolymer concrete beams: An experimental and numerical investigation." [Structures 33 (2021):567-580](https://www.sciencedirect.com/science/article/pii/S2352012421003763).
+
+Aravinda S. Rao, Tuan N. Nguyen, Marimuthu Palaniswami, and Tuan D. Ngo. "Vision-based automated crack detection using convolutional neural networks for condition assessment of infrastructure." [Structural Health Monitoring 20, no. 4 (2021): 2124-2142](https://journals.sagepub.com/doi/abs/10.1177/1475921720965445)
+
+Dac-Khuong Bui, Tuan N. Nguyen, Abdallah Ghazlan, and Tuan D. Ngo. "Biomimetic adaptive electrochromic windows for enhancing building energy efficiency." [Applied Energy 300 (2021): 117341](https://www.sciencedirect.com/science/article/pii/S0306261921007492).
+
+Dac-Khuong Bui, Tuan N. Nguyen, Abdallah Ghazlan, Ngoc-Tri Ngo, and Tuan D. Ngo. "Enhancing building energy efficiency by adaptive façade: A computational optimization approach." [Applied energy 265 (2020): 114797](https://www.sciencedirect.com/science/article/pii/S0306261920303093)
+
+
+
+
+
+
+
+
+
+
+
 
 
