@@ -44,6 +44,24 @@ Dac-Khuong Bui, Tuan N. Nguyen, Abdallah Ghazlan, and Tuan D. Ngo. "Biomimetic a
 
 Dac-Khuong Bui, Tuan N. Nguyen, Abdallah Ghazlan, Ngoc-Tri Ngo, and Tuan D. Ngo. "Enhancing building energy efficiency by adaptive façade: A computational optimization approach." [Applied energy 265 (2020): 114797](https://www.sciencedirect.com/science/article/pii/S0306261920303093)
 
+## 2020
+Tuan N. Nguyen, Abdallah Ghazlan, Thang Nguyen, Huu-Tai Thai, and Tuan D. Ngo. "Uncertainty quantification of the mechanical properties of lightweight concrete using micromechanical modelling." [International Journal of Mechanical Sciences 173 (2020): 105468](https://www.sciencedirect.com/science/article/pii/S0020740319331479).
+
+Dac-Khuong Bui, Tuan N. Nguyen, Tuan D. Ngo, and H. Nguyen-Xuan. "An artificial neural network (ANN) expert system enhanced with the electromagnetism-based firefly algorithm (EFA) for predicting the energy consumption in buildings." [Energy 190 (2020): 116370](https://www.sciencedirect.com/science/article/pii/S0360544219320651).
+
+Alireza Kashani, Tuan D. Ngo, Tuan N. Nguyen, Ailar Hajimohammadi, Sina Sinaie, and Priyan Mendis. "The effects of surfactants on properties of lightweight concrete foam." [Magazine of concrete research 72, no. 4 (2020): 163-172](https://www.icevirtuallibrary.com/doi/abs/10.1680/jmacr.18.00242)
+
+## 2019
+Tuan N. Nguyen, Alireza Kashani, Tuan D. Ngo, and Stéphane Bordas. "Deep neural network with high‐order neuron for the prediction of foamed concrete strength." [Computer‐Aided Civil and Infrastructure Engineering 34, no. 4 (2019): 316-332](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12422)
+
+
+
+
+
+
+
+
+
 
 
 
