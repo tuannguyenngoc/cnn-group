@@ -11,10 +11,5 @@ permalink: /publications/
 
 ## 2024
 
-{% for publi in site.data.publist_2024 %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
+Tran, Nghia P., Tianchun Wang, Tuan N. Nguyen, Hesong Jin, and Tuan D. Ngo. "High-volume recycled glass cementitious and geopolymer composites incorporating graphene oxide." Construction and Building Materials 450 (2024): 138476.
 
