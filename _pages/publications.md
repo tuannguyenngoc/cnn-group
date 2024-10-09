@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## 2024
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist_2024 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
