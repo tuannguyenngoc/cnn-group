@@ -19,12 +19,27 @@ Check our recent paper on [recycled glass concrete](https://www.sciencedirect.co
 The global transition to renewable energy is progressing rapidly, but the increasing reliance on renewable sources like solar and wind brings challenges due to their intermittency. To accelerate renewable energy deployment, effective energy storage solutions are essential. Our research explores the emerging field of concrete thermal energy storage (CTES). We focus on: i) developing tailored concrete mixes with enhanced thermal properties and stability, and ii) demonstrating the application of these materials in CTES systems through computational modelling and experimental testing. 
 
 Check our recent paper on [alkali-activated materials for CTES](https://www.sciencedirect.com/science/article/pii/S2666165924001285).
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg" style="width: 500px">
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg" alt="Slide 1" />
+        </div>
     </div>
-  </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 ## Integration of Energy Storage and Net-Zero Buildings
