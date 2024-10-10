@@ -19,9 +19,9 @@ Check our recent paper on [recycled glass concrete](https://www.sciencedirect.co
 The global transition to renewable energy is progressing rapidly, but the increasing reliance on renewable sources like solar and wind brings challenges due to their intermittency. To accelerate renewable energy deployment, effective energy storage solutions are essential. Our research explores the emerging field of concrete thermal energy storage (CTES). We focus on: i) developing tailored concrete mixes with enhanced thermal properties and stability, and ii) demonstrating the application of these materials in CTES systems through computational modelling and experimental testing. 
 
 Check our recent paper on [alkali-activated materials for CTES](https://www.sciencedirect.com/science/article/pii/S2666165924001285).
-<figure>
+<div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg" style="width: 500px">
-</figure>
+</div>
 
 
 ## Integration of Energy Storage and Net-Zero Buildings
