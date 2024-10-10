@@ -20,7 +20,7 @@ The global transition to renewable energy is progressing rapidly, but the increa
 
 Check our recent paper on [alkali-activated materials for CTES](https://www.sciencedirect.com/science/article/pii/S2666165924001285).
 <p align="middle">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg" style="width: 500px">
 </p>
 
 ## Integration of Energy Storage and Net-Zero Buildings
