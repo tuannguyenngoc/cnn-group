@@ -19,12 +19,6 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/uom_welcome.jpg" alt="Slide 1" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/ReCrete.jpg" alt="Slide 2" />
-        </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/CTES.jpg" alt="Slide 3" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
