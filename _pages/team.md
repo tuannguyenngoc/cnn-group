@@ -209,8 +209,7 @@ permalink: /team/
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEPGR Conference 2024.jfif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEPGR Conference 2024.jfif" alt="Slide 1" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_Echo birthday 2024.jfif" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_Echo birthday 2024.jfif" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
