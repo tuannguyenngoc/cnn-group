@@ -71,7 +71,7 @@ permalink: /team/
 
 ## PhD students
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.team_phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -130,6 +130,9 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Honorary Fellow
+
 
 ## Team photos
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
