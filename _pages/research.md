@@ -8,7 +8,8 @@ permalink: /research/
 
 # Research
 
-Our overarching aim is to advance the development of sustainable concrete, the most widely used human-made material, and to promote its critical role in the Net-Zero transition. Below are some of the key research areas we are currently working on:
+Our overarching aim is to advance the development of sustainable concrete, the most widely used human-made material, and to promote its critical role in the Net-Zero transition. Below are some of the key research areas we are currently working on.
+Jump to: [Recycled Materials](#concrete-thermal-energy-storage).
 
 ### Recycled Materials for Sustainable Concrete
 The global demand for concrete in building and infrastructure is rapidly increasing due to significant population growth and urbanisation. Simultaneously, industrialisation and urbanisation are generating vast quantities of recycled materials and industrial by-products. Our research focuses on examining and demonstrating the feasibility of incorporating these recycled/by-product materials into concrete to promote both circularity and sustainability, while maintaining the performance and durability of concrete. 
