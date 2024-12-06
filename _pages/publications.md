@@ -11,6 +11,8 @@ permalink: /publications/
 
 ## 2024
 
+Nghia P. Tran, Marc-Antoine Sani, Tuan N. Nguyen, and Tuan D. Ngo. "Microstructure and pore structure of one-part geopolymer incorporating electrolytic copper powder and graphene oxide". [Construction and Building Materials 456 (2024): 139331](https://www.sciencedirect.com/science/article/pii/S0950061824044738)
+
 Nghia P. Tran, Tianchun (Echo) Wang, Tuan N. Nguyen, Hesong Jin, and Tuan D. Ngo. "High-volume recycled glass cementitious and geopolymer composites incorporating graphene oxide." [Construction and Building Materials 450 (2024): 138476](https://www.sciencedirect.com/science/article/pii/S0950061824036183).
 
 Tay-Son Le, Tuan N. Nguyen, Dac-Khuong Bui, and Tuan D. Ngo. "Techno-economic and life cycle analysis of renewable energy storage systems in buildings: The effect of uncertainty." [Energy 307 (2024): 132644](https://www.sciencedirect.com/science/article/pii/S0360544224024186). 
