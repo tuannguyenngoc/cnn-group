@@ -207,6 +207,9 @@ permalink: /team/
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
+            <div class="carousel-caption d-none d-md-block">
+               <p>Infrastructure Engineering Postgraduate Research Conference, Oct 2024</p>
+      </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EchoBirthday2024.jfif" alt="Slide 2" />
