@@ -207,7 +207,7 @@ permalink: /team/
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
-                <div class="carousel-caption top-50 translate-middle-y text-start" 
+                <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 80%;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
                         Infrastructure Engineering Postgraduate Research Conference, Oct 2024
