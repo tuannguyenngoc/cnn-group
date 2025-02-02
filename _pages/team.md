@@ -207,7 +207,7 @@ permalink: /team/
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EoY2024.jpg" alt="Slide 3" />
                    <div class="carousel-caption top-50 translate-middle-y" 
-                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 80%;">
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 100%;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
                         End-of-Year 2024: CNN group and friends/collaborators
                     </p>
