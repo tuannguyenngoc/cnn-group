@@ -201,21 +201,25 @@ permalink: /team/
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+       <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
-                <div class="carousel-caption top-50 translate-middle-y" 
-                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 80%;">
-                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
-                        Infrastructure Engineering Postgraduate Research Conference, Oct 2024
-                    </p>
-                </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EchoBirthday2024.jfif" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EoY2024.jpg" alt="Slide 3" />
+                   <div class="carousel-caption top-50 translate-middle-y" 
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 80%;">
+                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
+                        End-of-Year 2024: CNN group and friends/collaborators
+                    </p>
+                </div>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
