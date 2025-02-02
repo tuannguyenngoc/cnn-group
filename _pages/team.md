@@ -209,7 +209,6 @@ permalink: /team/
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
                 <div class="carousel-caption top-50 translate-middle-y text-start" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 80%;">
-                    <h5 style="font-size: 26px; color: #FFD700;">Golden Title</h5>
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
                         Infrastructure Engineering Postgraduate Research Conference, Oct 2024
                     </p>
