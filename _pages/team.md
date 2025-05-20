@@ -216,7 +216,7 @@ permalink: /team/
      <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_GrampianTrip2025.jpg" alt="Slide 3" />
                    <div class="carousel-caption top-50 translate-middle-y" 
-                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 100%;">
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
                         Grampians National Park April 2025: Liu, Santosh, Vithusha, Saurab and Atabak (From left to right). 
                     </p>
