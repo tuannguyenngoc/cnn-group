@@ -14,8 +14,7 @@ Jump to: [Recycled Materials](#recycled-materials-for-sustainable-concrete), [Co
 ### Recycled Materials for Sustainable Concrete
 The global demand for concrete in building and infrastructure is rapidly increasing due to significant population growth and urbanisation. Simultaneously, industrialisation and urbanisation are generating vast quantities of recycled materials and industrial by-products. Our research focuses on examining and demonstrating the feasibility of incorporating these recycled/by-product materials into concrete to promote both circularity and sustainability, while maintaining the performance and durability of concrete. 
 
-Check our recent paper on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183).
-Check our recent paper on [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/).
+Check our recent papers on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183) and [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/).
 
 ### Concrete Thermal Energy Storage
 The global transition to renewable energy is progressing rapidly, but the increasing reliance on renewable sources like solar and wind brings challenges due to their intermittency. To accelerate renewable energy deployment, effective energy storage solutions are essential. Our research explores the emerging field of concrete thermal energy storage (CTES). We focus on: i) developing tailored concrete mixes with enhanced thermal properties and stability, and ii) demonstrating the application of these materials in CTES systems through computational modelling and experimental testing. 
