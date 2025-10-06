@@ -11,8 +11,8 @@ permalink: /research/
 Our overarching aim is to advance the development of sustainable concrete, the most widely used human-made material, and to promote its critical role in the Net-Zero transition. Below are some of the key research areas we are currently working on.
 Jump to: [Recycled Materials](#recycled-materials-for-sustainable-concrete), [Concrete Thermal Storage](#concrete-thermal-energy-storage), [Energy Storage Integration](#integration-of-energy-storage-and-net-zero-buildings).
 
-### Recycled Materials for Sustainable Concrete
-The global demand for concrete in building and infrastructure is rapidly increasing due to significant population growth and urbanisation. Simultaneously, industrialisation and urbanisation are generating vast quantities of recycled materials and industrial by-products. Our research focuses on examining and demonstrating the feasibility of incorporating these recycled/by-product materials into concrete to promote both circularity and sustainability, while maintaining the performance and durability of concrete. 
+### Low-carbon, Circular Concrete
+What would the ideal concrete look like? At CNN group, our researchers are driven by this question. We envision a material that is versatile, durable, recyclable, and produced with minimal CO₂ emissions — all while being made from locally available resources. Our team is developing a range of innovative solutions that have the potential to transform the construction industry and advance the sustainability of concrete. 
 
 Check our recent papers on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183) and [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/).
 
