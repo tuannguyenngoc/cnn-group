@@ -198,7 +198,7 @@ permalink: /team/
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-     <div class="item">
+     <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/IEPGC2025.jpg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
@@ -237,7 +237,7 @@ permalink: /team/
              <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EchoBirthday2024.jfif" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
         </div>
     </div>
