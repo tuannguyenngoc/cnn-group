@@ -9,6 +9,11 @@ permalink: /publications/
 
 # Publications
 
+## 2025
+Mishra, Santosh, Tuan Ngoc Nguyen, Tuan Ngo, and Tai Thai. "Thermal-mechanical investigation of steel tanks for molten salt thermal energy storage." [Applied Thermal Engineering (2025): 128930.](https://www.sciencedirect.com/science/article/pii/S1359431125035227)
+
+Arulkumar, Vithushanthini, Tuan Nguyen, Nghia Tran, Jay Black, Zipeng Zhang, Xuemei Liu, and Tuan Ngo. "Thermo-mechanical Treatment for Enhancing the Properties of Recycled Concrete Aggregate." [Journal of Advanced Concrete Technology 23, no. 3 (2025): 168-183.](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/)
+
 ## 2024
 
 Nghia P. Tran, Marc-Antoine Sani, Tuan N. Nguyen, and Tuan D. Ngo. "Microstructure and pore structure of one-part geopolymer incorporating electrolytic copper powder and graphene oxide". [Construction and Building Materials 456 (2024): 139331](https://www.sciencedirect.com/science/article/pii/S0950061824044738)
