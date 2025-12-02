@@ -214,11 +214,31 @@ permalink: /team/
                 </div>
         </div>
      <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_GrampianTrip2025.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_GrampianTrip2025.jpg" alt="Slide 4" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
                         Grampians National Park April 2025: Liu, Santosh, Vithusha, Saurab and Atabak (From left to right). 
+                    </p>
+                </div>
+        </div>
+    </div>
+ <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Concrete2025.jpg" alt="Slide 5" />
+                   <div class="carousel-caption top-50 translate-middle-y" 
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
+                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
+                        Concrete 2025 Conference: Vithusha, Tuan Nguyen and Dr Nan Zhang (Uni. Swinburne). 
+                    </p>
+                </div>
+        </div>
+    </div>
+    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/IEPGC2025.jpg" alt="Slide 6" />
+                   <div class="carousel-caption top-50 translate-middle-y" 
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
+                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
+                        Infrastructure Engineering Graduate Research Conference 2025. 
                     </p>
                 </div>
         </div>
