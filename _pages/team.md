@@ -198,32 +198,17 @@ permalink: /team/
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EchoBirthday2024.jfif" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EoY2024.jpg" alt="Slide 3" />
+     <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/IEPGC2025.jpg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
-                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 100%;">
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
-                        End-of-Year 2024: CNN group and friends/collaborators
+                        Infrastructure Engineering Graduate Research Conference (Oct 2025). 
                     </p>
                 </div>
         </div>
      <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_GrampianTrip2025.jpg" alt="Slide 4" />
-                   <div class="carousel-caption top-50 translate-middle-y" 
-                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
-                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
-                        Grampians National Park April 2025: Liu, Santosh, Vithusha, Saurab and Atabak (From left to right). 
-                    </p>
-                </div>
-        </div>
-      <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Concrete2025.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Concrete2025.jpg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
@@ -231,14 +216,29 @@ permalink: /team/
                     </p>
                 </div>
         </div>
-     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/IEPGC2025.jpg" alt="Slide 6" />
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_GrampianTrip2025.jpg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
-                        Infrastructure Engineering Graduate Research Conference (Oct 2025). 
+                        Grampians National Park April 2025: Liu, Santosh, Vithusha, Saurab and Atabak (From left to right). 
                     </p>
                 </div>
+        </div>
+             <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EoY2024.jpg" alt="Slide 1" />
+                   <div class="carousel-caption top-50 translate-middle-y" 
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 100%;">
+                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
+                        End-of-Year 2024: CNN group and friends/collaborators
+                    </p>
+                </div>
+        </div>
+             <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_EchoBirthday2024.jfif" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_IEGR2024.jfif" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
