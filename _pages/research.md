@@ -15,6 +15,7 @@ Jump to: [Recycled Materials](#recycled-materials-for-sustainable-concrete), [Co
 What would the ideal concrete look like? At CNN group, our researchers are driven by this question. We envision a material that is versatile, durable, recyclable, and produced with minimal CO₂ emissions — all while being made from locally available resources. Our team is developing a range of innovative solutions that have the potential to transform the construction industry and advance the sustainability of concrete. 
 
 Check our recent papers on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183) and [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/).
+Check the development of [R2Crete](https://r2crete.com.au/), the startup company from our concrete recycling research.
 
 ### Concrete Thermal Energy Storage
 The global transition to renewable energy is progressing rapidly, but the increasing reliance on renewable sources like solar and wind brings challenges due to their intermittency. To accelerate renewable energy deployment, effective energy storage solutions are essential. Our research explores the emerging field of concrete thermal energy storage (CTES). We focus on: i) developing tailored concrete mixes with enhanced thermal properties and stability, and ii) demonstrating the application of these materials in CTES systems through computational modelling and experimental testing. 
