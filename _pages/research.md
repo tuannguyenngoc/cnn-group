@@ -14,7 +14,7 @@ Jump to: [Recycled Materials](#recycled-materials-for-sustainable-concrete), [Co
 ### Low-carbon, Circular Concrete
 What would the ideal concrete look like? At CNN group, our researchers are driven by this question. We envision a material that is versatile, durable, recyclable, and produced with minimal CO₂ emissions — all while being made from locally available resources. Our team is developing a range of innovative solutions that have the potential to transform the construction industry and advance the sustainability of concrete. 
 
-Check our recent papers on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183), [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/), and [recycled concrete powder]([https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/](https://www.sciencedirect.com/science/article/pii/S0950061826005969)).
+Check our recent papers on [recycled glass concrete](https://www.sciencedirect.com/science/article/pii/S0950061824036183), [recycled aggregate concrete](https://www.jstage.jst.go.jp/article/jact/23/3/23_168/_article/-char/ja/), and [recycled concrete powder](https://www.sciencedirect.com/science/article/pii/S0950061826005969).
 
 Check the development of [R2Crete](https://r2crete.com.au/), the startup company from our concrete recycling research.
 
