@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 ## 2026
-Mishra, Santosh, and Tuan Ngoc Nguyen. "Thermal buckling investigation of molten salt storage tanks used in thermal energy storage systems." Energy (2026): 141619.](https://www.sciencedirect.com/science/article/pii/S0360544226017263)
+Mishra, Santosh, and Tuan Ngoc Nguyen. "Thermal buckling investigation of molten salt storage tanks used in thermal energy storage systems." [Energy (2026): 141619.](https://www.sciencedirect.com/science/article/pii/S0360544226017263)
 
-Fardnam, Atabak Pourdadash, Tuan Ngoc Nguyen, and Vithushanthini Arulkumar. "Three‐dimensional meso‐scale finite element modeling of recycled aggregate concrete using cohesive zone method." Structural Concrete (2026).](https://onlinelibrary.wiley.com/doi/full/10.1002/suco.70641)
+Fardnam, Atabak Pourdadash, Tuan Ngoc Nguyen, and Vithushanthini Arulkumar. "Three‐dimensional meso‐scale finite element modeling of recycled aggregate concrete using cohesive zone method." [Structural Concrete (2026).](https://onlinelibrary.wiley.com/doi/full/10.1002/suco.70641)
 
 Tu, Liuhui, and Tuan Nguyen. "A comparative study of different fin designs for enhancing the performance of concrete thermal energy storage." [Energy (2026): 140677.](https://www.sciencedirect.com/science/article/pii/S0360544226007802)
 
