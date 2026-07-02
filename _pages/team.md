@@ -199,7 +199,7 @@ permalink: /team/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
      <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_2026VithushaThesisSubmission.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_2026VithushaThesisSubmission.jpeg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
