@@ -199,11 +199,20 @@ permalink: /team/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
      <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Pic_2026VithushaThesisSubmission.jpg" alt="Slide 1" />
+                   <div class="carousel-caption top-50 translate-middle-y" 
+                     style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
+                    <p style="font-size: 18px; font-weight: bold; color: #fff;">
+                        Vithusha's thesis submission celebration (May 2026). 
+                    </p>
+                </div>
+        </div>
+     <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/IEPGC2025.jpg" alt="Slide 1" />
                    <div class="carousel-caption top-50 translate-middle-y" 
                      style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; width: 90%;max-width: 700px;word-wrap: break-word; white-space: normal;">
                     <p style="font-size: 18px; font-weight: bold; color: #fff;">
-                        Infrastructure Engineering Graduate Research Conference (Oct 2025). 
+                        Infrastructure Engineering Graduate Research Conference (Oct 2025) 
                     </p>
                 </div>
         </div>
