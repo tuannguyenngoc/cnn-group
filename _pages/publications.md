@@ -9,6 +9,10 @@ permalink: /publications/
 
 # Publications
 ## 2026
+Arulkumar, Vithushanthini, and Tuan Nguyen. "Engineering properties and environmental assessment of high-volume recycled concrete powder and recycled concrete fine aggregate in composite mortar." [Journal of Building Engineering (2026): 117443.](https://www.sciencedirect.com/science/article/pii/S2352710226022655)
+
+Tu, Liuhui, Vithushanthini Arulkumar, Guillermo A. Narsilio, and Tuan Nguyen. "Particle-scale numerical modelling of packed bed thermal energy storage using recycled aggregate." [Journal of Energy Storage 182 (2026): 124617.](https://www.sciencedirect.com/science/article/pii/S2352152X26042817)
+
 Mishra, Santosh, and Tuan Ngoc Nguyen. "Thermal buckling investigation of molten salt storage tanks used in thermal energy storage systems." [Energy (2026): 141619.](https://www.sciencedirect.com/science/article/pii/S0360544226017263)
 
 Fardnam, Atabak Pourdadash, Tuan Ngoc Nguyen, and Vithushanthini Arulkumar. "Three‐dimensional meso‐scale finite element modeling of recycled aggregate concrete using cohesive zone method." [Structural Concrete (2026).](https://onlinelibrary.wiley.com/doi/full/10.1002/suco.70641)
